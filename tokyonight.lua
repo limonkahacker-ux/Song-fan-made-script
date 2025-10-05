@@ -1,3 +1,6 @@
+-- Tokyo Night AutoPlayer (Fan-Made)
+-- Работает в Starving Pianist через Xeno / Synapse X
+
 local VirtualInputManager = game:GetService("VirtualInputManager")
 
 local notes = {
